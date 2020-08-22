@@ -8,7 +8,8 @@ Stack:
 2. [SCSS](https://sass-lang.com/guide)
 3. [PUG](https://pugjs.org/api/getting-started.html)
 
-[Demo](https://stanislavnemytov.github.io/transcoin/),
+[Demo](https://stanislavnemytov.github.io/transcoin/), [Logged](https://stanislavnemytov.github.io/transcoin/dashboard.html)
+
 [Site](https://transcoin.me/)
 
 ---
