@@ -60,7 +60,17 @@ Stack:
 
 ---
 
-## 5. Eren-Kozik
+## 5. WordPress Project for ACADIAC
+
+Stack:
+
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
+
+[site](http://acadiac.com/)
+
+## 6. Eren-Kozik
 
 Stack:
 
@@ -72,7 +82,7 @@ Stack:
 
 ---
 
-## 5. SEO Class
+## 7. SEO Class
 
 Stack:
 
@@ -84,7 +94,7 @@ Stack:
 
 ---
 
-## 6. TODO
+## 8. TODO
 
 Stack:
 
@@ -96,7 +106,7 @@ Stack:
 
 ---
 
-## 7. SongBird
+## 9. SongBird
 
 Stack:
 
