@@ -134,7 +134,7 @@ Stack:
   3. [Styled components](https://styled-components.com/)
 </details>
 
-[Demo](https://stanislavnemytov.github.io/seoman-class/)
+[Demo](https://react-todo-sn.netlify.app/)
 
 ---
 
