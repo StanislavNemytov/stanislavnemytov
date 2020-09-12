@@ -1,132 +1,117 @@
 # Projects
 
-<details>
-  <summary>TransCOIN</summary>
+## 1. TransCOIN
 
-  ## TransCOIN  
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-</details>
+Stack:
 
-[Demo](https://stanislavnemytov.github.io/transcoin/),
-[Demo-Logged](https://stanislavnemytov.github.io/transcoin/dashboard.html), [Site](https://transcoin.me/)
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
+
+[Demo](https://stanislavnemytov.github.io/transcoin/), [Logged](https://stanislavnemytov.github.io/transcoin/dashboard.html)
+
+[Site](https://transcoin.me/)
 
 ---
 
-<details>
-  <summary>StasNemy-slider</summary>
+## 2. StasNemy-slider
 
-  ## StasNemy-slider
-  ### Under development
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-  4. [TypeScript](https://www.typescriptlang.org/)
-  Testing:
-  1. [Karma](http://karma-runner.github.io/latest/index.html)
-  2. [Jasmine](https://jasmine.github.io/)
-</details>
+### Under development
+
+Stack:
+
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
+4. [TypeScript](https://www.typescriptlang.org/)
+
+Testing:
+
+1. [Karma](http://karma-runner.github.io/latest/index.html)
+2. [Jasmine](https://jasmine.github.io/)
 
 [Demo](https://stanislavnemytov.github.io/sliderSNA/)
 
 ---
 
+## 3. Speech
 
-<details>
-  <summary>Speech</summary>
+Stack:
 
-  ## Speech
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-  4. [Web Speech API](https://developer.mozilla.org/ru/docs/Web/API/Web_Speech_API)
-</details>
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
+4. [Web Speech API](https://developer.mozilla.org/ru/docs/Web/API/Web_Speech_API)
 
 [Demo](https://stanislavnemytov.github.io/speech/)
 
 ---
 
-<details>
-  <summary>Psychic contact blog</summary>
+## 4. Psychic contact blog
 
-  ## 4. Psychic contact blog
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-</details>
+Stack:
 
-[Demo](https://stanislavnemytov.github.io/psychic_contact_blog/dist/), [site](https://www.psychic-contact.net/)
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
+
+[Demo](https://stanislavnemytov.github.io/psychic_contact_blog/dist/),
+[site](https://www.psychic-contact.net/)
 
 ---
 
-<details>
-  <summary>WordPress Project for ACADIAC</summary>
+## 5. WordPress Project for ACADIAC
 
-  ## 5. WordPress Project for ACADIAC
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-</details>
+Stack:
+
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
 
 [site](http://acadiac.com/)
 
----
+## 6. Eren-Kozik
 
-<details>
-  <summary>Eren-Kozik</summary>
+Stack:
 
-  ## 6. Eren-Kozik
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-</details>
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
 
 [Demo](https://stanislavnemytov.github.io/seoman/)
 
 ---
 
-<details>
-  <summary>SEO Class</summary>
-  
-  ## 7. SEO Class
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [PUG](https://pugjs.org/api/getting-started.html)
-</details>
+## 7. SEO Class
+
+Stack:
+
+1. [Webpack](https://webpack.js.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [PUG](https://pugjs.org/api/getting-started.html)
 
 [Demo](https://stanislavnemytov.github.io/seoman-class/)
 
 ---
-<details>
-  <summary>TODO</summary>
 
-  ## 8. TODO
-  Stack:
-  1. [React](https://reactjs.org/)
-  2. [SCSS](https://sass-lang.com/guide)
-  3. [Styled components](https://styled-components.com/)
-</details>
+## 8. TODO
 
-[Demo](https://react-todo-sn.netlify.app/)
+Stack:
+
+1. [React](https://reactjs.org/)
+2. [SCSS](https://sass-lang.com/guide)
+3. [Styled components](https://styled-components.com/)
+
+[Demo](https://stanislavnemytov.github.io/seoman-class/)
 
 ---
 
-<details>
-  <summary>SongBird</summary>
+## 9. SongBird
 
-  ## 9. SongBird
-  Stack:
-  1. [Webpack](https://webpack.js.org/)
-  2. [React](https://reactjs.org/)
-  3. [SCSS](https://sass-lang.com/guide)
-</details>
+Stack:
+
+1. [Webpack](https://webpack.js.org/)
+2. [React](https://reactjs.org/)
+3. [SCSS](https://sass-lang.com/guide)
 
 [Demo](https://songbird-sn.netlify.app/)
