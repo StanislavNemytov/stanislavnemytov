@@ -1,6 +1,31 @@
 # Projects
 
-## 1. TransCOIN
+## Shop (React)
+
+Stack:
+
+1. React
+2. Redux
+3. Thunk
+4. Json-server
+
+[Result](https://angry-franklin-609b25.netlify.app)
+
+---
+
+## SongBird
+
+Stack:
+
+1. [Webpack](https://webpack.js.org/)
+2. [React](https://reactjs.org/)
+3. [SCSS](https://sass-lang.com/guide)
+
+[Demo](https://songbird-sn.netlify.app/)
+
+---
+
+## TransCOIN
 
 Stack:
 
@@ -8,13 +33,24 @@ Stack:
 2. [SCSS](https://sass-lang.com/guide)
 3. [PUG](https://pugjs.org/api/getting-started.html)
 
+Plugins:
+1. air-datepicker
+2. select2
+
+Framework: Bootstrap 4
+
+Linter: Eslint
+
+Code formatter: Prettier
+
+
 [Demo](https://stanislavnemytov.github.io/transcoin/), [Logged](https://stanislavnemytov.github.io/transcoin/dashboard.html)
 
 [Site](https://transcoin.me/)
 
 ---
 
-## 2. StasNemy-slider
+## StasNemy-slider
 
 ### Under development
 
@@ -30,11 +66,15 @@ Testing:
 1. [Karma](http://karma-runner.github.io/latest/index.html)
 2. [Jasmine](https://jasmine.github.io/)
 
+Linter: Eslint
+
+Code formatter: Prettier
+
 [Demo](https://stanislavnemytov.github.io/sliderSNA/)
 
 ---
 
-## 3. Speech
+## Speech
 
 Stack:
 
@@ -47,7 +87,7 @@ Stack:
 
 ---
 
-## 4. Psychic contact blog
+## Psychic contact blog
 
 Stack:
 
@@ -60,7 +100,7 @@ Stack:
 
 ---
 
-## 5. WordPress Project for ACADIAC
+## WordPress Project for ACADIAC
 
 Stack:
 
@@ -70,7 +110,7 @@ Stack:
 
 [site](http://acadiac.com/)
 
-## 6. Eren-Kozik
+## Eren-Kozik
 
 Stack:
 
@@ -82,7 +122,7 @@ Stack:
 
 ---
 
-## 7. SEO Class
+## SEO Class
 
 Stack:
 
@@ -94,7 +134,7 @@ Stack:
 
 ---
 
-## 8. TODO
+## TODO
 
 Stack:
 
@@ -104,14 +144,3 @@ Stack:
 
 [Demo](https://stanislavnemytov.github.io/seoman-class/)
 
----
-
-## 9. SongBird
-
-Stack:
-
-1. [Webpack](https://webpack.js.org/)
-2. [React](https://reactjs.org/)
-3. [SCSS](https://sass-lang.com/guide)
-
-[Demo](https://songbird-sn.netlify.app/)
