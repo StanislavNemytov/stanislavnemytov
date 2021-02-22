@@ -50,7 +50,7 @@ Code formatter: Prettier
 
 ---
 
-## StasNemy-slider
+## Range slider
 
 ### Under development
 
