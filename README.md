@@ -142,5 +142,5 @@ Stack:
 2. [SCSS](https://sass-lang.com/guide)
 3. [Styled components](https://styled-components.com/)
 
-[Demo](https://stanislavnemytov.github.io/seoman-class/)
+[Demo](https://github.com/StanislavNemytov/React-todo/)
 
