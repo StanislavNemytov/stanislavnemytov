@@ -1,8 +1,5 @@
 # Projects
 
-<details>
-  <summary>ReactJS</summary>
-
   # ReactJS
 
   ## Shop
@@ -50,13 +47,8 @@
   [Demo](https://github.com/StanislavNemytov/React-todo/),
   [Repository](https://github.com/StanislavNemytov/React-todo)
 
-</details>
-
 ***
 ***
-
-<details>
-  <summary>JavaScrip/TypeScript</summary>
 
   # JavaScrip/TypeScript
 
@@ -89,13 +81,8 @@
 
   [Demo](https://stanislavnemytov.github.io/speech/)
 
-</details>
-
 ***
 ***
-
-<details>
-  <summary>WordPress</summary>
 
   # WordPress
 
@@ -120,13 +107,8 @@
 
   [site](http://acadiac.com/)
 
-</details>
-
 ***
 ***
-
-<details>
-  <summary>PUG/SCSS</summary>
 
   # PUG/SCSS
 
@@ -176,8 +158,6 @@
   3. [PUG](https://pugjs.org/api/getting-started.html)
 
   [Demo](https://stanislavnemytov.github.io/seoman-class/)
-
-</details>
 
 ***
 ***
