@@ -21,11 +21,13 @@ Stack:
 
 Stack:
 
-1. [Webpack](https://webpack.js.org/)
-2. [React](https://reactjs.org/)
-3. [React player](https://github.com/CookPete/react-player)
-4. [SCSS](https://sass-lang.com/guide)
-5. Bootstrap 4.5
+- React
+- React DOM
+- React hot reload
+- React player
+- Scss
+- Bootstrap 4.5
+- Webpack
 
 [Demo](https://songbird-sn.netlify.app/)
 [Repository](https://github.com/StanislavNemytov/songbird)
