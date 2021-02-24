@@ -4,10 +4,12 @@
 
 Stack:
 
-1. React
-2. Redux
-3. Thunk
-4. Json-server
+- React
+- Redux
+- Redux-Thunk
+- React router DOM
+- Scss
+- Axios
 
 [Result](https://angry-franklin-609b25.netlify.app),
 [Repository](https://github.com/StanislavNemytov/test_5)
@@ -64,7 +66,7 @@ Stack:
 
 Testing:
 
-1. [Karma](http://karma-runner.github.io/latest/index.html)
+1. [Karma runner](http://karma-runner.github.io/latest/index.html)
 2. [Jasmine](https://jasmine.github.io/)
 
 Linter: Eslint
