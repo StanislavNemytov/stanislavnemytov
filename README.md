@@ -1,8 +1,8 @@
 # Projects
 
-  # ReactJS
+  ## ReactJS
 
-  ## Shop
+  ### Shop
   Stack:
   - React
   - Redux
@@ -17,7 +17,7 @@
   
   ---
 
-  ## SongBird
+  ### SongBird
 
   Stack:
 
@@ -34,7 +34,7 @@
 
   ---
 
-  ## TODO
+  ### TODO
 
   Stack:
 
@@ -50,10 +50,10 @@
 ***
 ***
 
-  # JavaScrip/TypeScript
+  ## JavaScrip/TypeScript
 
-  ## Range slider
-  ### Under development
+  ### Range slider
+  #### Under development
 
   Stack
   - Webpack
@@ -70,7 +70,7 @@
 
   ---
 
-  ## Speech
+  ### Speech
 
   Stack:
 
@@ -84,9 +84,9 @@
 ***
 ***
 
-  # WordPress
+  ## WordPress
 
-  ## Psychic contact blog
+  ### Psychic contact blog
 
   Stack:
   1. [Webpack](https://webpack.js.org/)
@@ -98,7 +98,7 @@
 
   ---
 
-  ## WordPress Project for ACADIAC
+  ### WordPress Project for ACADIAC
 
   Stack:
   1. [Webpack](https://webpack.js.org/)
@@ -110,9 +110,9 @@
 ***
 ***
 
-  # PUG/SCSS
+  ## PUG/SCSS
 
-  ## TransCOIN
+  ### TransCOIN
 
   Stack:
 
@@ -137,7 +137,7 @@
 
   ---
 
-  ## Eren-Kozik
+  ### Eren-Kozik
 
   Stack:
 
@@ -149,7 +149,7 @@
 
   ---
 
-  ## SEO Class
+  ### SEO Class
 
   Stack:
 
