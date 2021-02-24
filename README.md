@@ -60,26 +60,20 @@ Code formatter: Prettier
 ---
 
 ## Range slider
-
 ### Under development
 
-Stack:
+Stack
+- Webpack
+- Typescript
+- SCSS
+- PUG
 
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-4. [TypeScript](https://www.typescriptlang.org/)
+Testing
+- Karma runner
+- Karma coverage
+- Jasmine
 
-Testing:
-
-1. [Karma runner](http://karma-runner.github.io/latest/index.html)
-2. [Jasmine](https://jasmine.github.io/)
-
-Linter: Eslint
-
-Code formatter: Prettier
-
-[Demo](https://stanislavnemytov.github.io/sliderSNA/)
+[Demo](https://stanislavnemytov.github.io/sliderSNA/), [Repository](https://github.com/StanislavNemytov/sliderSNA)
 
 ---
 
@@ -147,9 +141,11 @@ Stack:
 
 Stack:
 
-1. [React](https://reactjs.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [Styled components](https://styled-components.com/)
+- React
+- React DOM
+- Reactstrap
+- SCSS
+- Styled components
 
-[Demo](https://github.com/StanislavNemytov/React-todo/)
-
+[Demo](https://github.com/StanislavNemytov/React-todo/),
+[Repository](https://github.com/StanislavNemytov/React-todo)
