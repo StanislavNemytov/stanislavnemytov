@@ -10,6 +10,7 @@ Stack:
 - React router DOM
 - Scss
 - Axios
+- Json server
 
 [Result](https://angry-franklin-609b25.netlify.app),
 [Repository](https://github.com/StanislavNemytov/test_5)
