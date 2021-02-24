@@ -23,9 +23,12 @@ Stack:
 
 1. [Webpack](https://webpack.js.org/)
 2. [React](https://reactjs.org/)
-3. [SCSS](https://sass-lang.com/guide)
+3. [React player](https://github.com/CookPete/react-player)
+4. [SCSS](https://sass-lang.com/guide)
+5. Bootstrap 4.5
 
 [Demo](https://songbird-sn.netlify.app/)
+[Repository](https://github.com/StanislavNemytov/songbird)
 
 ---
 
