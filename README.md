@@ -2,7 +2,23 @@
 
 ## ReactJS
 
-### Shop
+### **Test task for company BeeJee.**
+
+Stack:
+- React
+- Redux
+- Redux-Thunk
+- React router DOM
+- Less
+- Antd
+- Axios
+
+[Result](https://stupefied-kilby-388530.netlify.app/),
+[Repository](https://github.com/StanislavNemytov/test_8)
+
+---
+
+### **Shop**
 Stack:
 - React
 - Redux
@@ -17,7 +33,7 @@ Stack:
 
 ---
 
-### SongBird
+### **SongBird**
 
 Stack:
 
@@ -34,7 +50,7 @@ Stack:
 
 ---
 
-### TODO
+### **TODO**
 
 Stack:
 
@@ -52,7 +68,7 @@ Stack:
 
 ## JavaScrip/TypeScript
 
-### Range slider
+### **Range slider**
 #### Under development
 
 Stack
@@ -70,7 +86,7 @@ Testing
 
 ---
 
-### Speech
+### **Speech**
 
 Stack:
 
@@ -86,7 +102,7 @@ Stack:
 
 ## WordPress
 
-### Psychic contact blog
+### **Psychic contact blog**
 
 Stack:
 1. [Webpack](https://webpack.js.org/)
@@ -98,7 +114,7 @@ Stack:
 
 ---
 
-### WordPress Project for ACADIAC
+### **WordPress Project for ACADIAC**
 
 Stack:
 1. [Webpack](https://webpack.js.org/)
@@ -112,7 +128,7 @@ Stack:
 
 ## PUG/SCSS
 
-### TransCOIN
+### **TransCOIN**
 
 Stack:
 
@@ -137,7 +153,7 @@ Code formatter: Prettier
 
 ---
 
-### Eren-Kozik
+### **Eren-Kozik**
 
 Stack:
 
@@ -149,7 +165,7 @@ Stack:
 
 ---
 
-### SEO Class
+### **SEO Class**
 
 Stack:
 
