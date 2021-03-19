@@ -8,7 +8,6 @@ Stack:
 - React
 - Redux
 - Redux-Thunk
-- React router DOM
 - Less
 - Antd
 - Axios
