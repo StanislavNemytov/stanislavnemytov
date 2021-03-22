@@ -59,7 +59,7 @@ Stack:
 - SCSS
 - Styled components
 
-[Demo](https://github.com/StanislavNemytov/React-todo/),
+[Demo](https://react-todo-sn.netlify.app),
 [Repository](https://github.com/StanislavNemytov/React-todo)
 
 ***
