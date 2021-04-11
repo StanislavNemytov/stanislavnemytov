@@ -67,112 +67,17 @@ Stack:
 
 ## JavaScrip/TypeScript
 
-### **Range slider**
+### **SliderSNA-v2**
 #### Under development
 
 Stack
 - Webpack
 - Typescript
 - SCSS
-- PUG
+- EsLint: airbnb
 
 Testing
-- Karma runner
-- Karma coverage
-- Jasmine
+- Jest
 
-[Demo](https://stanislavnemytov.github.io/sliderSNA/), [Repository](https://github.com/StanislavNemytov/sliderSNA)
-
----
-
-### **Speech**
-
-Stack:
-
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-4. [Web Speech API](https://developer.mozilla.org/ru/docs/Web/API/Web_Speech_API)
-
-[Demo](https://stanislavnemytov.github.io/speech/)
-
-***
-***
-
-## WordPress
-
-### **Psychic contact blog**
-
-Stack:
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-
-[Demo](https://stanislavnemytov.github.io/psychic_contact_blog/dist/),
-[site](https://www.psychic-contact.net/)
-
----
-
-### **WordPress Project for ACADIAC**
-
-Stack:
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-
-[site](http://acadiac.com/)
-
-***
-***
-
-## PUG/SCSS
-
-### **TransCOIN**
-
-Stack:
-
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-
-Plugins:
-1. air-datepicker
-2. select2
-
-Framework: Bootstrap 4
-
-Linter: Eslint
-
-Code formatter: Prettier
-
-
-[Demo](https://stanislavnemytov.github.io/transcoin/), [Logged](https://stanislavnemytov.github.io/transcoin/dashboard.html)
-
-[Site](https://transcoin.me/)
-
----
-
-### **Eren-Kozik**
-
-Stack:
-
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-
-[Demo](https://stanislavnemytov.github.io/seoman/)
-
----
-
-### **SEO Class**
-
-Stack:
-
-1. [Webpack](https://webpack.js.org/)
-2. [SCSS](https://sass-lang.com/guide)
-3. [PUG](https://pugjs.org/api/getting-started.html)
-
-[Demo](https://stanislavnemytov.github.io/seoman-class/)
-
-***
-***
+[Demo](https://fsd-slider-stanisalv-nemytov.netlify.app),
+[Repository](https://github.com/StanislavNemytov/sliderSNA-v2)
