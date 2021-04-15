@@ -2,6 +2,22 @@
 
 ## ReactJS
 
+### **Newest test task**
+
+Stack:
+- React
+- Antd
+- Axios
+- React Hooks
+- TypeScript
+
+The API from the company is configured to http, so to work properly you need to disable the security.
+
+[Result](https://stanislav-nemytov-rdom.netlify.app/),
+[Repository](https://github.com/StanislavNemytov/rdom)
+
+---
+
 ### **Test task for company BeeJee.**
 
 Stack:
