@@ -16,7 +16,7 @@ Stack:
 
 ---
 
-### **test assignment for BeeJee company.**
+### **Test assignment for BeeJee company.**
 
 Stack:
 - React
